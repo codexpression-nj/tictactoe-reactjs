@@ -1,0 +1,22 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background: #241057;
+    border: 5px solid #6349B8;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    border-radius: 10%;
+}
+.board-row {
+    display: flex;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color:aliceblue
+  }
